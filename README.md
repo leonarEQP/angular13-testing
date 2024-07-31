@@ -59,4 +59,12 @@
    "types": [
    "jest"
    ]
+
+   ```
+
+9. Add jest script to package.json
+
+   ```package.json
+   "test": "jest",
+   "test:watch": "jest --watchAll"
    ```
