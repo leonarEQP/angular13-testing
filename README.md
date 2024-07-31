@@ -78,3 +78,9 @@
     ```
     del src/test.ts
     ```
+
+11. Add esModuleInterop to true in tsconfig.json
+
+    ```tsconfig.json
+    "esModuleInterop": true
+    ```
