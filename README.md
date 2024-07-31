@@ -68,3 +68,13 @@
    "test": "jest",
    "test:watch": "jest --watchAll"
    ```
+
+10. Delete karma.config.js and test.ts file
+
+    ```
+    del karma.config.js
+    ```
+
+    ```
+    del src/test.ts
+    ```
